@@ -2,8 +2,8 @@ FreqTweets
 ===
 
 Check how often people you are following update their statuses. Therefore, you
-can identify people that is cluttering your timeline and who does not use Twitter
-regularly.
+can identify people that is cluttering your timeline, so as who does not use
+Twitter regularly.
 
 
 Setup
