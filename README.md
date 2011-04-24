@@ -18,6 +18,7 @@ Usage
 ---
 
     make run user=tiagofernandez
+    make run user=tiagofernandez > output.txt
 
 
 Author
